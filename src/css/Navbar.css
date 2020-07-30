@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+
+.nav-content{
+    background: transparent;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 58px;
+    padding: 0 1.5rem;
+}
+
+.nav-items{
+    display: none;
+}
+
+.nav-items a {
+    padding: 0;
+    color: rgba(15, 15, 15, 0.75);
+    font-size: .875rem;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    text-transform: uppercase;
+    margin: 0 1rem 0 0;
+    transition: color .25s;
+}
+
+.nav-items a:hover {
+    color: #d88a83 !important;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.active{
+    color: #d88a83 !important;
+}
+
+.Brand{
+    display: flex;
+    align-items: center;
+}
+
+.Brand-logo, .Brand-name{
+    margin: 0 .7rem 0 0;
+    padding: 0;
+}
+
+.Brand-logo{
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+}
+
+.Brand-name{
+    font-size: .875rem;
+    font-family: "Poppins";
+    font-weight: 800;
+    transition: color .25s;
+}
+
+@media (min-width: 768px){
+    .nav-content{
+        align-items: center;
+    }
+    .nav-items{
+        display: flex;
+        align-items: center;
+    }
+
+    .Brand{
+       align-items: center;
+    }
+
+    .Brand-logo{
+        height: 38px;
+        width: 38px;
+    }
+    .Brand-logo, .Brand-name{
+        margin: 0 1rem 0 0;
+        padding: 0;
+    }
+}

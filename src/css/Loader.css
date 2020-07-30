@@ -1,0 +1,38 @@
+.loader-outer{
+    position: fixed;
+    z-index: 20;
+    height: 100vh;
+    width: 100%;
+    background: #000;
+    display: flex;
+    justify-content: space-around;
+    transition-property: opacity, visibility;
+    transition-duration: 1s;
+}
+
+.loader-outer.loaded {
+    opacity: 0;
+    visibility: hidden;
+}
+
+.loader {
+    border: 8px solid #2b2929;
+    border-radius: 50%;
+    border-left-color:#d88a83;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 1s linear infinite;
+  }
+
+  /* Safari */
+@-webkit-keyframes spin {
+    0% { -webkit-transform: rotate(0deg); }
+    100% { -webkit-transform: rotate(360deg); }
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
