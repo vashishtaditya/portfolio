@@ -1,29 +1,31 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.037ecb8b.chunk.css",
-    "main.js": "/portfolio/static/js/main.fe33de19.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.fe33de19.chunk.js.map",
+    "main.css": "/portfolio/static/css/main.d3a44a38.chunk.css",
+    "main.js": "/portfolio/static/js/main.b832f85c.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.b832f85c.chunk.js.map",
     "runtime-main.js": "/portfolio/static/js/runtime-main.075c0788.js",
     "runtime-main.js.map": "/portfolio/static/js/runtime-main.075c0788.js.map",
     "static/css/2.af3c1da9.chunk.css": "/portfolio/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b2ea924d.chunk.js": "/portfolio/static/js/2.b2ea924d.chunk.js",
-    "static/js/2.b2ea924d.chunk.js.map": "/portfolio/static/js/2.b2ea924d.chunk.js.map",
+    "static/js/2.34bf9fc8.chunk.js": "/portfolio/static/js/2.34bf9fc8.chunk.js",
+    "static/js/2.34bf9fc8.chunk.js.map": "/portfolio/static/js/2.34bf9fc8.chunk.js.map",
     "index.html": "/portfolio/index.html",
-    "precache-manifest.937c166e999066705b6057456333fee1.js": "/portfolio/precache-manifest.937c166e999066705b6057456333fee1.js",
+    "precache-manifest.093dc628ea98d143cc26e10db7943266.js": "/portfolio/precache-manifest.093dc628ea98d143cc26e10db7943266.js",
     "service-worker.js": "/portfolio/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/portfolio/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.037ecb8b.chunk.css.map": "/portfolio/static/css/main.037ecb8b.chunk.css.map",
-    "static/js/2.b2ea924d.chunk.js.LICENSE.txt": "/portfolio/static/js/2.b2ea924d.chunk.js.LICENSE.txt",
+    "static/css/main.d3a44a38.chunk.css.map": "/portfolio/static/css/main.d3a44a38.chunk.css.map",
+    "static/js/2.34bf9fc8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.34bf9fc8.chunk.js.LICENSE.txt",
+    "static/media/AppVideo.mov": "/portfolio/static/media/AppVideo.287faf08.mov",
     "static/media/Hola-app.png": "/portfolio/static/media/Hola-app.6c394532.png",
     "static/media/Hola-dashboard.png": "/portfolio/static/media/Hola-dashboard.de73966a.png",
+    "static/media/dashboard.mov": "/portfolio/static/media/dashboard.bca9f664.mov",
     "static/media/hello.png": "/portfolio/static/media/hello.a9aab92e.png",
     "static/media/logo.jpeg": "/portfolio/static/media/logo.23a7b61b.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.075c0788.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.b2ea924d.chunk.js",
-    "static/css/main.037ecb8b.chunk.css",
-    "static/js/main.fe33de19.chunk.js"
+    "static/js/2.34bf9fc8.chunk.js",
+    "static/css/main.d3a44a38.chunk.css",
+    "static/js/main.b832f85c.chunk.js"
   ]
 }
