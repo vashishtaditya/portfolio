@@ -1,31 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7e4153115f2ed5090c9151a666a9698",
+    "revision": "b62119ac09540f6bb9442dca45dd69cc",
     "url": "/portfolio/index.html"
   },
   {
-    "revision": "be417536a60f62121754",
+    "revision": "444ab3e2b5c1d1861663",
     "url": "/portfolio/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6272ce6c2689fb45afbc",
-    "url": "/portfolio/static/css/main.d3a44a38.chunk.css"
+    "revision": "712c4a15b54df4a1c295",
+    "url": "/portfolio/static/css/main.59e5f684.chunk.css"
   },
   {
-    "revision": "be417536a60f62121754",
-    "url": "/portfolio/static/js/2.34bf9fc8.chunk.js"
+    "revision": "444ab3e2b5c1d1861663",
+    "url": "/portfolio/static/js/2.f744ca3a.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/portfolio/static/js/2.34bf9fc8.chunk.js.LICENSE.txt"
+    "url": "/portfolio/static/js/2.f744ca3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6272ce6c2689fb45afbc",
-    "url": "/portfolio/static/js/main.b832f85c.chunk.js"
+    "revision": "712c4a15b54df4a1c295",
+    "url": "/portfolio/static/js/main.54e732e2.chunk.js"
   },
   {
     "revision": "f619aeccc94a0d089131",
     "url": "/portfolio/static/js/runtime-main.075c0788.js"
+  },
+  {
+    "revision": "07cbd5320e7666ad06278d00be7a0c24",
+    "url": "/portfolio/static/media/Aditya_Vashisht_Resume.07cbd532.pdf"
   },
   {
     "revision": "287faf088a9dd2c50a0128d6943c7211",
