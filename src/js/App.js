@@ -27,7 +27,7 @@ const App = () => {
     element.classList.add('loaded')
   }
 
-  return  <Router basename="adityavashisht.com"> 
+  return  <Router basename="/"> 
             <div className="App" >
               <Loader/>
               <Navbar updateInView={bool}/>
