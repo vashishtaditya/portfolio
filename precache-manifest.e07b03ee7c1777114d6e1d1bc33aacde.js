@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b09e0589c27561ae230038c81aa043b1",
+    "revision": "10a0c11e403c49e2ae99b99163954385",
     "url": "/adityavashisht.com/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adityavashisht.com/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "54894cd09250046e0056",
+    "revision": "643376834ad01cf9b767",
     "url": "/adityavashisht.com/static/css/main.ec6220b0.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/adityavashisht.com/static/js/2.f744ca3a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "54894cd09250046e0056",
-    "url": "/adityavashisht.com/static/js/main.fe34a3b2.chunk.js"
+    "revision": "643376834ad01cf9b767",
+    "url": "/adityavashisht.com/static/js/main.79c50b5c.chunk.js"
   },
   {
     "revision": "7f7ceb1ebe8171c8ce3d",

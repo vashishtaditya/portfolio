@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/adityavashisht.com/static/css/main.ec6220b0.chunk.css",
-    "main.js": "/adityavashisht.com/static/js/main.fe34a3b2.chunk.js",
-    "main.js.map": "/adityavashisht.com/static/js/main.fe34a3b2.chunk.js.map",
+    "main.js": "/adityavashisht.com/static/js/main.79c50b5c.chunk.js",
+    "main.js.map": "/adityavashisht.com/static/js/main.79c50b5c.chunk.js.map",
     "runtime-main.js": "/adityavashisht.com/static/js/runtime-main.a0ebe508.js",
     "runtime-main.js.map": "/adityavashisht.com/static/js/runtime-main.a0ebe508.js.map",
     "static/css/2.af3c1da9.chunk.css": "/adityavashisht.com/static/css/2.af3c1da9.chunk.css",
     "static/js/2.f744ca3a.chunk.js": "/adityavashisht.com/static/js/2.f744ca3a.chunk.js",
     "static/js/2.f744ca3a.chunk.js.map": "/adityavashisht.com/static/js/2.f744ca3a.chunk.js.map",
     "index.html": "/adityavashisht.com/index.html",
-    "precache-manifest.2aed875e5e081e948a95c99048475388.js": "/adityavashisht.com/precache-manifest.2aed875e5e081e948a95c99048475388.js",
+    "precache-manifest.e07b03ee7c1777114d6e1d1bc33aacde.js": "/adityavashisht.com/precache-manifest.e07b03ee7c1777114d6e1d1bc33aacde.js",
     "service-worker.js": "/adityavashisht.com/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/adityavashisht.com/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.ec6220b0.chunk.css.map": "/adityavashisht.com/static/css/main.ec6220b0.chunk.css.map",
@@ -27,6 +27,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.f744ca3a.chunk.js",
     "static/css/main.ec6220b0.chunk.css",
-    "static/js/main.fe34a3b2.chunk.js"
+    "static/js/main.79c50b5c.chunk.js"
   ]
 }
