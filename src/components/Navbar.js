@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link} from "react-scroll";
 import '../css/Navbar.css'
-import logo from '../images/logo.jpeg'
+import logo from '../images/logo.png'
 import resume from '../Aditya_Vashisht_Resume.pdf'
 
 

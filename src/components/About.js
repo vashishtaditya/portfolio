@@ -1,6 +1,6 @@
 import React from 'react'
 import SwipeableViews from 'react-swipeable-views';
-import Avatar from '../images/logo.jpeg'
+import Avatar from '../images/logo.png'
 import Skills from '../components/Skills'
 import Passions from '../components/Passions'
 import Languages from '../components/Languages'
