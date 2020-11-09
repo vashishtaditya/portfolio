@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.ec6220b0.chunk.css",
-    "main.js": "/static/js/main.c7b05544.chunk.js",
-    "main.js.map": "/static/js/main.c7b05544.chunk.js.map",
+    "main.js": "/static/js/main.c34da7e0.chunk.js",
+    "main.js.map": "/static/js/main.c34da7e0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.ceaf4b5f.js",
     "runtime-main.js.map": "/static/js/runtime-main.ceaf4b5f.js.map",
     "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
     "static/js/2.f47622f4.chunk.js": "/static/js/2.f47622f4.chunk.js",
     "static/js/2.f47622f4.chunk.js.map": "/static/js/2.f47622f4.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cb0c3f4be8512916461add30efbcf347.js": "/precache-manifest.cb0c3f4be8512916461add30efbcf347.js",
+    "precache-manifest.d49a3d42f2344a20e4a3c99de2618b24.js": "/precache-manifest.d49a3d42f2344a20e4a3c99de2618b24.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.ec6220b0.chunk.css.map": "/static/css/main.ec6220b0.chunk.css.map",
     "static/js/2.f47622f4.chunk.js.LICENSE.txt": "/static/js/2.f47622f4.chunk.js.LICENSE.txt",
-    "static/media/Aditya_Vashisht_Resume.pdf": "/static/media/Aditya_Vashisht_Resume.3a85e114.pdf",
+    "static/media/Aditya_Vashisht_Resume.pdf": "/static/media/Aditya_Vashisht_Resume.917b6cf0.pdf",
     "static/media/AppVideo.mov": "/static/media/AppVideo.287faf08.mov",
     "static/media/Hola-app.png": "/static/media/Hola-app.6c394532.png",
     "static/media/Hola-dashboard.png": "/static/media/Hola-dashboard.de73966a.png",
@@ -27,6 +27,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.f47622f4.chunk.js",
     "static/css/main.ec6220b0.chunk.css",
-    "static/js/main.c7b05544.chunk.js"
+    "static/js/main.c34da7e0.chunk.js"
   ]
 }
